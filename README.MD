@@ -164,9 +164,13 @@ Infrastructure → Application & Domain
 6️⃣ Benefits
 
 ✅ Testable (mock repositories)
+
 ✅ Database-agnostic
+
 ✅ Scalable for microservices
+
 ✅ Clear separation of concerns
+
 ✅ Easy to swap databases
 
 7️⃣ Advanced Best Practices
