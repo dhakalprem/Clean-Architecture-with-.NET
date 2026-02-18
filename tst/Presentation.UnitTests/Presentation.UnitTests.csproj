@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <ItemGroup>
+    <PackageReference Include="bunit" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Presentation.BSA\Presentation.BSA.csproj" />
+    <ProjectReference Include="..\TestCommon\TestCommon.csproj" />
+  </ItemGroup>
+
+</Project>
